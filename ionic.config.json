@@ -1,0 +1,8 @@
+{
+  "name": "BusTime",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
